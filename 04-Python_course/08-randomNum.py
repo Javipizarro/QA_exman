@@ -1,0 +1,52 @@
+import random
+
+print(random.randrange(1, 2))
+print(random.randrange(1, 2))
+print(random.randrange(1, 2))
+print(random.randrange(1, 2))
+print(random.randrange(1, 2))
+print(random.randrange(1, 2))
+print(random.randrange(1, 2))
+print(random.randrange(1, 2))
+print(random.randrange(1, 2))
+print(random.randrange(1, 2))
+print(random.randrange(1, 2))
+print(random.randrange(1, 2))
+print(random.randrange(1, 2))
+print(random.randrange(1, 2))
+print(random.randrange(1, 2))
+print(random.randrange(1, 2))
+print(random.randrange(1, 2))
+print(random.randrange(1, 2))
+print(random.randrange(1, 2))
+print(random.randrange(1, 2))
+print(random.randrange(1, 2))
+print(random.randrange(1, 2))
+print(random.randrange(1, 2))
+print(random.randrange(1, 2))
+print(random.randrange(1, 2))
+print(random.randrange(1, 2))
+print(random.randrange(1, 2))
+print(random.randrange(1, 2))
+print(random.randrange(1, 2))
+print(random.randrange(1, 2))
+print(random.randrange(1, 2))
+print(random.randrange(1, 2))
+print(random.randrange(1, 2))
+print(random.randrange(1, 2))
+print(random.randrange(1, 2))
+print(random.randrange(1, 2))
+print(random.randrange(1, 2))
+print(random.randrange(1, 2))
+print(random.randrange(1, 2))
+print(random.randrange(1, 2))
+
+
+x = "65"
+y = 6.9
+z = "hola!!"
+
+print(int(x))
+print(int(y))
+print(int(z))
+
